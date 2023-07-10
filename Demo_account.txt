@@ -1,0 +1,7 @@
+*Farmer: 
+minhnhut1
+Password123
+
+*Merchant:
+minhmin
+Password123
